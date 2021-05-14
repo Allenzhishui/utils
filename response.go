@@ -1,4 +1,4 @@
-package utlis
+package utils
 
 // Response  format
 type Response struct {
